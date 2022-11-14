@@ -4,6 +4,7 @@ body {
     background: #F5F7FA;
 }
 
+
 /* main styles */
 .main {
     display: flex;
@@ -17,33 +18,33 @@ body {
 .maincontent {
     background: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 105px 90px;
+    padding: 80px 80px;
 }
 
 /* about styles */
 .about {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
-.aposition {
+.position {
     font-style: normal;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 24px;
     line-height: 17px;
     color: #000000;
     margin-bottom: 20px;
 }
 
-.aname {
+.name {
     font-style: normal;
     font-weight: 700;
     font-size: 45px;
     line-height: 55px;
     color: #000000;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
 }
 
-.adescription {
+.summary {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -54,8 +55,8 @@ body {
 
 /* project styles */
 .projects {
-    margin-bottom: 50px;
-    width: 485px;
+    margin-bottom: 20px;
+    width: 650px;
 }
 
 .title {
@@ -91,14 +92,10 @@ body {
     color: #595959;
 }
 
-.plink {
-    margin-left: 10px;
-}
-
 /* work styles */
 .work {
-    margin-bottom: 45px;
-    width: 525px;
+    margin-bottom: 20px;
+    width: 650px;
 }
 
 .wposition {
@@ -142,6 +139,7 @@ body {
 .worklist {
     padding: 0;
     margin-left: 15px;
+    margin-bottom: 10px;
 
 }
 
@@ -156,7 +154,7 @@ body {
 
 /* education styles */
 .education {
-    width: 327px;
+    width: 650px;
 }
 
 .faculty {
@@ -177,7 +175,7 @@ body {
 
 .photo {
     width: 370px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 .contacts,
@@ -187,11 +185,11 @@ body {
 }
 
 .contacts {
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 .tech-skills {
-    margin-bottom: 45px;
+    margin-bottom: 20px;
 }
 
 .sidebar_title {
