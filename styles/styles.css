@@ -53,12 +53,6 @@ body {
     width: 650px;
 }
 
-/* project styles */
-.projects {
-    margin-bottom: 20px;
-    width: 650px;
-}
-
 .title {
     font-style: normal;
     font-weight: 700;
@@ -113,7 +107,7 @@ body {
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
-    color: #FB6D3A;
+    color: #1f0bd3;
     margin-bottom: 10px;
 
 }
@@ -123,7 +117,7 @@ body {
     font-weight: 400;
     font-size: 12px;
     line-height: 15px;
-    color: #A8A8A8;
+    color: #00000080;
     margin-bottom: 10px;
 
 }
