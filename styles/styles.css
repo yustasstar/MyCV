@@ -17,7 +17,7 @@ body {
 /* maincontent styles */
 .maincontent {
     background: #FFFFFF;
-    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.5);
     padding: 80px 80px;
 }
 
@@ -46,10 +46,10 @@ body {
 
 .summary {
     font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
+    font-weight: 500;
+    font-size: 16px;
     line-height: 24px;
-    color: #595959;
+    color: #19191ae0;
     width: 650px;
 }
 
@@ -97,7 +97,7 @@ body {
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
-    color: #000000;
+    color: #000000d3;
     margin-bottom: 10px;
 
 }
@@ -117,7 +117,7 @@ body {
     font-weight: 400;
     font-size: 12px;
     line-height: 15px;
-    color: #00000080;
+    color: #0000009f;
     margin-bottom: 10px;
 
 }
@@ -140,9 +140,9 @@ body {
 .wlitem {
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
-    color: #595959;
+    color: #19191ae0;
 
 }
 
